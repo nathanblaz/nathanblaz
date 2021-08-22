@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a Full Stack Software Engineer, coming from a career as a professional musicion, instructor, and audio techician.
+🔭 I’m a Full Stack Software Engineer, coming from a career as a professional musician, instructor, and audio techician.
 
 📖 I attended App Academy in 2021.
 
